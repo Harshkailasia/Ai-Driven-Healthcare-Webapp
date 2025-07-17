@@ -63,7 +63,6 @@ Ai-Driven-Healthcare-Webapp/
 For larger teams or future expansion, consider this organization:
 
 ```
-<code_block_to_apply_changes_from>
 Ai-Driven-Healthcare-Webapp/
 │
 ├── src/                        # All source code
