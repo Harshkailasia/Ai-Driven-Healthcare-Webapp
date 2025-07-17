@@ -15,28 +15,107 @@ A machine learning-powered web app for predicting diseases from symptoms, with e
 
 ---
 
-## 🏗️ Project Structure
+## 🌳 **Current Project Tree (with Comments)**
 
 ```
-T2/
+Ai-Driven-Healthcare-Webapp/
+│
 ├── app.py                # Streamlit web app entry point
-├── disease_pred.py       # Core logic for prediction
-├── model.py              # Model classes and utilities
-├── nlp_processor.py      # NLP preprocessing
-├── symptoms.py           # Symptom list
-├── prescriptions.py      # Prescription logic
-├── train_models.py       # Model training script
-├── evaluate_model.py     # Model evaluation script
-├── requirements.txt      # Python dependencies
+├── disease_pred.py       # Core logic for disease prediction (chat/CLI)
+├── model.py              # DiseasePredictor class and ML logic
+├── nlp_processor.py      # NLP utilities for symptom extraction
+├── symptoms.py           # Loads available symptoms from training data
+├── prescriptions.py      # Maps diseases to prescription recommendations
+├── train_models.py       # Script to train ML models and save .pkl files
+├── evaluate_model.py     # Script to evaluate model performance
+│
+├── requirements.txt      # Python dependencies for pip
+├── pyproject.toml        # Modern Python project config (optional)
 ├── README.md             # Project documentation
+├── LICENSE               # MIT License
+├── .gitignore            # Git ignore rules
+│
+├── generated-icon.png    # App icon for Streamlit UI
+├── disease_pred.ipynb    # Jupyter notebook for demo/experiments
+│
+├── Testing.csv           # Test dataset
+├── Training.csv          # Training dataset
+│
 ├── rf_model.pkl          # Trained Random Forest model
 ├── svm_model.pkl         # Trained SVM model
 ├── nb_model.pkl          # Trained Naive Bayes model
-├── Training.csv          # Training data
-├── Testing.csv           # Test data
-├── disease_pred.ipynb    # Jupyter notebook demo
-└── ...
+│
+├── verification.py       # (Optional) Model verification utility
+├── tempCodeRunnerFile.py # (Temp) VSCode/IDE runner file (can ignore)
+│
+├── Optimised/            # (Optional) Folder for optimized scripts/models
+├── attached_assets/      # (Optional) Extra assets (not core to app)
+├── .ipynb_checkpoints/   # Jupyter notebook checkpoints (auto-generated)
+├── __pycache__/          # Python bytecode cache (auto-generated)
+├── venv/                 # Local Python virtual environment (should be gitignored)
+└── uv.lock, replit.nix   # (Optional) Environment/config files for uv/replit
 ```
+
+---
+
+## 🗂️ **Recommended Scalable Structure**
+
+For larger teams or future expansion, consider this organization:
+
+```
+<code_block_to_apply_changes_from>
+Ai-Driven-Healthcare-Webapp/
+│
+├── src/                        # All source code
+│   ├── __init__.py
+│   ├── app.py                  # Streamlit entry point
+│   ├── disease_pred.py         # Core logic
+│   ├── model.py                # ML models
+│   ├── nlp_processor.py        # NLP utilities
+│   ├── symptoms.py             # Symptom loader
+│   ├── prescriptions.py        # Prescription logic
+│
+├── data/                       # Datasets
+│   ├── Training.csv
+│   ├── Testing.csv
+│
+├── models/                     # Trained model binaries
+│   ├── rf_model.pkl
+│   ├── svm_model.pkl
+│   ├── nb_model.pkl
+│
+├── notebooks/                  # Jupyter notebooks
+│   └── disease_pred.ipynb
+│
+├── assets/                     # Images, icons, etc.
+│   └── generated-icon.png
+│
+├── scripts/                    # Utility scripts (training, evaluation)
+│   ├── train_models.py
+│   ├── evaluate_model.py
+│   └── verification.py
+│
+├── requirements.txt
+├── pyproject.toml
+├── README.md
+├── LICENSE
+├── .gitignore
+└── ... (other config files)
+```
+
+---
+
+### **Benefits of This Structure**
+- **Separation of concerns:** Code, data, models, and assets are clearly separated.
+- **Easier collaboration:** Team members can work on different parts without conflicts.
+- **Scalability:** Easy to add new features, models, or datasets.
+- **Cleaner root directory:** Only essential project files and configs at the top level.
+
+---
+
+**You can migrate gradually**—start by creating the folders, then move files and update import paths as needed.
+
+Let me know if you want a migration plan or help with updating import statements for this structure!
 
 ---
 
@@ -103,3 +182,4 @@ Contributions are welcome! Please:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
