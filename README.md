@@ -116,6 +116,17 @@ Contributions are welcome! Please:
 
 ---
 
+## 🙋 Author
+
+Developed by **@Avnish1447**
+
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Avnish1447)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avnishagrawal1447@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnish-agrawal-84b39728a/)
+
+
+---
+
+
 ## 📄 License
 
 This project is licensed under the MIT License.
