@@ -15,9 +15,9 @@ A machine learning-powered web app for predicting diseases from symptoms, with e
 
 ---
 
-## 🌳 **Current Project Tree (with Comments)**
+## 🌳 Current Project Tree (with Comments)
 
-```
+```text
 Ai-Driven-Healthcare-Webapp/
 │
 ├── app.py                # Streamlit web app entry point
@@ -58,11 +58,11 @@ Ai-Driven-Healthcare-Webapp/
 
 ---
 
-## 🗂️ **Recommended Scalable Structure**
+## 🗂️ Recommended Scalable Structure
 
 For larger teams or future expansion, consider this organization:
 
-```
+```text
 Ai-Driven-Healthcare-Webapp/
 │
 ├── src/                        # All source code
@@ -104,7 +104,7 @@ Ai-Driven-Healthcare-Webapp/
 
 ---
 
-### **Benefits of This Structure**
+### Benefits of This Structure
 - **Separation of concerns:** Code, data, models, and assets are clearly separated.
 - **Easier collaboration:** Team members can work on different parts without conflicts.
 - **Scalability:** Easy to add new features, models, or datasets.
@@ -123,7 +123,7 @@ Let me know if you want a migration plan or help with updating import statements
 1. **Clone the repository**
    ```bash
    git clone <repo-url>
-   cd T2
+   cd Ai-Driven-Healthcare-Webapp
    ```
 2. **Create and activate a virtual environment**
    ```bash
@@ -181,4 +181,3 @@ Contributions are welcome! Please:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
