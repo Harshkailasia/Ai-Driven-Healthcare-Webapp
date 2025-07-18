@@ -11,7 +11,7 @@ from symptoms import AVAILABLE_SYMPTOMS
 @st.cache_resource
 def load_models():
     predictor = DiseasePredictor()
-    predictor.train("Training.csv")
+    predictor.train("data/Training.csv")
     extractor = SymptomExtractor()
     return predictor, extractor
 
