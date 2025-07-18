@@ -19,7 +19,7 @@ def main():
     # Set page config for favicon
     st.set_page_config(
         page_title="Disease Prediction System",
-        page_icon="generated-icon.png"
+        page_icon="assets/generated-icon.png"
     )
     
     # Add logo to top-left
